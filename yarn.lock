@@ -1810,10 +1810,15 @@
   resolved "https://registry.yarnpkg.com/@types/resemblejs/-/resemblejs-1.3.28.tgz#2e0db3b5fdb0f2f3d454f5d72e13241209ea97ad"
   integrity sha1-Lg2ztf2w8vPUVPXXLhMkEgnql60=
 
-"@types/sarif@2.1.1", "@types/sarif@^2.1.1":
+"@types/sarif@2.1.1":
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/@types/sarif/-/sarif-2.1.1.tgz#d398d201eade0a88958dffdd13ca88f7a37546df"
   integrity sha512-OI9w+yqOhvT3Z9tF/4d+YVFbdYojotHMRfuKrVtAzeKu3L0kBiK6CnHADkNrfSeVOgkIMeg8OqIQFfcsm7HgCg==
+
+"@types/sarif@^2.1.1":
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@types/sarif/-/sarif-2.1.2.tgz#91d9f9e793fadbba36239f03ec996987b2e25635"
+  integrity sha512-TELZl5h48KaB6SFZqTuaMEw1hrGuusbBcH+yfMaaHdS2pwDr3RTH4CVN0LyY1kqSiDm9PPvAMx8FJ0LUZreOCQ==
 
 "@types/semver@^5.5.0":
   version "5.5.0"
