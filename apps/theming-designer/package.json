@@ -26,13 +26,13 @@
     "@uifabric/variants": "^7.0.5",
     "@uifabric/set-version": "^7.0.2",
     "@uifabric/icons": "^7.2.1",
-    "@microsoft/load-themed-styles": "^1.7.13",
-    "es6-promise": "^4.1.0",
-    "immutability-helper": "~2.8.1",
+    "@microsoft/load-themed-styles": "1.9.7",
+    "es6-promise": "4.2.8",
+    "immutability-helper": "2.8.1",
     "office-ui-fabric-react": "^7.37.0",
     "react": "16.8.6",
-    "react-app-polyfill": "~1.0.1",
+    "react-app-polyfill": "1.0.1",
     "react-dom": "16.8.6",
-    "tslib": "^1.7.1"
+    "tslib": "1.10.0"
   }
 }

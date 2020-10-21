@@ -15,7 +15,7 @@
     "clean": "just-scripts clean"
   },
   "devDependencies": {
-    "@types/node": "^8.10.29",
+    "@types/node": "8.10.49",
     "@uifabric/build": "^7.0.0",
     "@uifabric/merge-styles": "^7.6.0",
     "@uifabric/react-cards": "^0.108.1",

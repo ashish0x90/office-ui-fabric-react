@@ -16,12 +16,12 @@
   },
   "devDependencies": {
     "@uifabric/build": "^7.0.0",
-    "glob": "^7.1.2",
+    "glob": "7.1.4",
     "monaco-editor": "0.17.1"
   },
   "dependencies": {
-    "@microsoft/load-themed-styles": "^1.7.13",
-    "tslib": "^1.7.1"
+    "@microsoft/load-themed-styles": "1.9.7",
+    "tslib": "1.10.0"
   },
   "optionalPeerDependencies": {
     "typescript": "*",
