@@ -31,7 +31,7 @@
     "@types/react": "16.8.11",
     "@types/react-dom": "16.8.4",
     "@types/react-test-renderer": "^16.0.0",
-    "@types/sinon": "2.2.2",
+    "@types/sinon": "2.3.7",
     "@uifabric/jest-serializer-merge-styles": "^7.0.6",
     "@uifabric/prettier-rules": "^7.0.4",
     "@uifabric/test-utilities": "^7.0.6",
