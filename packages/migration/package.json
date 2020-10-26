@@ -22,7 +22,7 @@
     "just": "just-scripts"
   },
   "devDependencies": {
-    "@types/jest": "23.0.0",
+    "@types/jest": "23.3.14",
     "@types/glob": "^7.1.1",
     "@types/mock-fs": "3.6.30",
     "@types/node": "^8.10.29",

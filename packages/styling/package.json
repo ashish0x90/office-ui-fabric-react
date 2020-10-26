@@ -21,7 +21,7 @@
     "update-snapshots": "just-scripts jest -u"
   },
   "devDependencies": {
-    "@types/jest": "23.0.0",
+    "@types/jest": "23.3.14",
     "@types/webpack-env": "1.13.9",
     "@uifabric/prettier-rules": "^7.0.4",
     "@uifabric/tslint-rules": "^7.0.5",
