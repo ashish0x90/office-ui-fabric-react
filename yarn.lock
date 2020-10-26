@@ -11004,12 +11004,12 @@ markdown-loader@^2.0.2:
     loader-utils "^1.1.0"
     marked "^0.3.9"
 
-markdown-to-jsx@6.6.1:
-  version "6.6.1"
-  resolved "https://registry.yarnpkg.com/markdown-to-jsx/-/markdown-to-jsx-6.6.1.tgz#858b37f8a92526b1f3407593ff77c95927720bef"
-  integrity sha1-hYs3+KklJrHzQHWT/3fJWSdyC+8=
+markdown-to-jsx@6.11.4:
+  version "6.11.4"
+  resolved "https://registry.yarnpkg.com/markdown-to-jsx/-/markdown-to-jsx-6.11.4.tgz#b4528b1ab668aef7fe61c1535c27e837819392c5"
+  integrity sha512-3lRCD5Sh+tfA52iGgfs/XZiw33f7fFX9Bn55aNnVNUd2GzLDkOWyKYYD8Yju2B1Vn+feiEdgJs8T6Tg0xNokPw==
   dependencies:
-    prop-types "^15.5.10"
+    prop-types "^15.6.2"
     unquote "^1.1.0"
 
 marked-terminal@^3.2.0:
