@@ -2124,10 +2124,10 @@
     "@types/history" "*"
     "@types/react" "*"
 
-"@types/react-addons-test-utils@0.14.18":
-  version "0.14.18"
-  resolved "https://registry.yarnpkg.com/@types/react-addons-test-utils/-/react-addons-test-utils-0.14.18.tgz#83e10af1dbe5ec2535bc2dc5373d7bc3b82fdee1"
-  integrity sha1-g+EK8dvl7CU1vC3FNz17w7gv3uE=
+"@types/react-addons-test-utils@0.14.26":
+  version "0.14.26"
+  resolved "https://registry.yarnpkg.com/@types/react-addons-test-utils/-/react-addons-test-utils-0.14.26.tgz#c9dc8c81e4b1f2832ae00b73b483934d29c74fb9"
+  integrity sha512-zrnMrqGCfIniXyipb9HFPgdWf9TO0llA7n5QduJsx0IDB0pPK8p3/4rL4SfOLgsmtbb2X2XWCW9kBn/2k+52fg==
   dependencies:
     "@types/react" "*"
 
