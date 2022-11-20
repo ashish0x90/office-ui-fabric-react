@@ -29,7 +29,7 @@
     "@types/jest": "23.0.0",
     "@types/node": "^8.10.29",
     "@types/puppeteer": "1.12.3",
-    "@types/react": "16.8.11",
+    "@types/react": "16.14.34",
     "@types/react-dom": "16.8.4",
     "@types/sarif": "^2.1.1",
     "@uifabric/build": "^7.0.0",
