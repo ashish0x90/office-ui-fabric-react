@@ -13,7 +13,7 @@
     "just": "just-scripts"
   },
   "devDependencies": {
-    "@storybook/addon-options": "=3.2.3",
+    "@storybook/addon-options": "=3.4.12",
     "@storybook/addons": "^6.0.21",
     "@storybook/channels": "^3.4.11",
     "@storybook/react": "^3.2.3",
