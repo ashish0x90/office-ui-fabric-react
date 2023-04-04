@@ -11,7 +11,7 @@
     "start": "just-scripts dev"
   },
   "devDependencies": {
-    "@types/es6-promise": "0.0.32",
+    "@types/es6-promise": "0.0.33",
     "@types/react": "16.8.11",
     "@types/react-dom": "16.8.4",
     "@types/webpack-env": "1.13.9",

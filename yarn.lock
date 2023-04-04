@@ -1956,10 +1956,10 @@
     "@types/cheerio" "*"
     "@types/react" "*"
 
-"@types/es6-promise@0.0.32":
-  version "0.0.32"
-  resolved "https://registry.yarnpkg.com/@types/es6-promise/-/es6-promise-0.0.32.tgz#3bcf44fb1e429f3df76188c8c6d874463ba371fd"
-  integrity sha1-O89E+x5Cnz33YYjIxth0Rjujcf0=
+"@types/es6-promise@0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@types/es6-promise/-/es6-promise-0.0.33.tgz#280a707e62b1b6bef1a86cc0861ec63cd06c7ff3"
+  integrity sha512-HKJFVLCGrWQ/1unEw8JdaTxu6n3EUxmwTxJ6D0O1x0gD8joCsgoTWxEgevb7fp2XIogNjof3KEd+3bJoGne/nw==
 
 "@types/events@*":
   version "3.0.0"
