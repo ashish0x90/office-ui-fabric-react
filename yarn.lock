@@ -1882,10 +1882,10 @@
   resolved "https://registry.yarnpkg.com/@types/color-check/-/color-check-0.0.0.tgz#873335a4a588210f48e09fabc01335bcea7e6f82"
   integrity sha512-ZAm8KesT3hIm6I1vb5EbwD2C4f5XYawZjpE1UGlpfbMFOmLtBpYcZP0duGnsZY/6wzvw1y8MTofRqFzpzU2uOg==
 
-"@types/d3-array@1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@types/d3-array/-/d3-array-1.2.1.tgz#e489605208d46a1c9d980d2e5772fa9c75d9ec65"
-  integrity sha512-YBaAfimGdWE4nDuoGVKsH89/dkz2hWZ0i8qC+xxqmqi+XJ/aXiRF0jPtzXmN7VdkpVjy1xuDmM5/m1FNuB6VWA==
+"@types/d3-array@1.2.9":
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/@types/d3-array/-/d3-array-1.2.9.tgz#c7dc78992cd8ca5c850243a265fd257ea56df1fa"
+  integrity sha512-E/7RgPr2ylT5dWG0CswMi9NpFcjIEDqLcUSBgNHe/EMahfqYaTx4zhcggG3khqoEB/leY4Vl6nTSbwLUPjXceA==
 
 "@types/d3-axis@1.0.10":
   version "1.0.10"
@@ -5925,12 +5925,7 @@ cyclist@~0.2.2:
   resolved "https://registry.yarnpkg.com/cyclist/-/cyclist-0.2.2.tgz#1b33792e11e914a2fd6d6ed6447464444e5fa640"
   integrity sha1-GzN5LhHpFKL9bW7WRHRkRE5fpkA=
 
-d3-array@1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/d3-array/-/d3-array-1.2.1.tgz#d1ca33de2f6ac31efadb8e050a021d7e2396d5dc"
-  integrity sha512-CyINJQ0SOUHojDdFDH4JEM0552vCR1utGyLHegJHyYH0JyCpSeTPxi4OBqHMA2jJZq4NH782LtaJWBImqI/HBw==
-
-d3-array@^1.2.0:
+d3-array@1.2.4, d3-array@^1.2.0:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/d3-array/-/d3-array-1.2.4.tgz#635ce4d5eea759f6f605863dbcfc30edc737f71f"
   integrity sha512-KHW6M86R+FUPYGb3R5XiYjXPq7VzwxZ22buHhAEVG5ztoEcZZMLov530mmccaqA1GghZArjQV46fuc8kUqhhHw==
