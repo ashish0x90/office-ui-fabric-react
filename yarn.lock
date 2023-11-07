@@ -1864,9 +1864,9 @@
     "@babel/types" "^7.3.0"
 
 "@types/babylon@^6.16.5":
-  version "6.16.5"
-  resolved "https://registry.yarnpkg.com/@types/babylon/-/babylon-6.16.5.tgz#1c5641db69eb8cdf378edd25b4be7754beeb48b4"
-  integrity sha512-xH2e58elpj1X4ynnKp9qSnWlsRTIs6n3tgLGNfwAGHwePw0mulHQllV34n0T25uYSu1k0hRKkWXF890B1yS47w==
+  version "6.16.9"
+  resolved "https://registry.yarnpkg.com/@types/babylon/-/babylon-6.16.9.tgz#7abf03f6591a921fe3171af91433077cd2666e36"
+  integrity sha512-sEKyxMVEowhcr8WLfN0jJYe4gS4Z9KC2DGz0vqfC7+MXFbmvOF7jSjALC77thvAO2TLgFUPa9vDeOak+AcUrZA==
   dependencies:
     "@types/babel-types" "*"
 
