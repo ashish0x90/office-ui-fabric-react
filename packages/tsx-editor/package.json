@@ -29,7 +29,7 @@
     "@types/react-dom": "16.8.4",
     "@types/react-syntax-highlighter": "^10.2.1",
     "@types/react-test-renderer": "^16.0.0",
-    "@types/webpack-env": "1.13.9",
+    "@types/webpack-env": "1.18.5",
     "@uifabric/build": "^7.0.0",
     "@uifabric/jest-serializer-merge-styles": "^7.0.6",
     "@uifabric/prettier-rules": "^7.0.4",

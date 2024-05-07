@@ -29,7 +29,7 @@
     "@types/react": "16.8.11",
     "@types/react-dom": "16.8.4",
     "@types/resemblejs": "~1.3.28",
-    "@types/webpack-env": "1.13.9",
+    "@types/webpack-env": "1.18.5",
     "@uifabric/prettier-rules": "^7.0.4",
     "@uifabric/tslint-rules": "^7.0.5",
     "es6-promise": "^4.1.0",
