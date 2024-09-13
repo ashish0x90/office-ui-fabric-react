@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@microsoft/tsdoc": "0.12.12",
-    "@microsoft/api-extractor-model": "7.3.2",
+    "@microsoft/api-extractor-model": "7.29.8",
     "@microsoft/node-core-library": "~3.9.0"
   }
 }
